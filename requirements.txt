@@ -1,0 +1,5 @@
+# Django2.1.3以上を使用。セキュリティリスク軽減のため、2.2.0までで常に最新版を指定する。
+Django>=2.1.3,<2.2.0
+
+#Djangorestframework
+djangorestframework>=3.9.0,<3.10.0
