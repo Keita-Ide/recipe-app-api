@@ -4,5 +4,5 @@ def add(x, y):
 
 
 def subtract(x, y):
-    """Substracttwo nymber together"""
+    """Substract two nymber together"""
     return x - y

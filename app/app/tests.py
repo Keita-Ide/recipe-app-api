@@ -9,5 +9,5 @@ class CaluTests(TestCase):
         self.assertEqual(add(3, 8), 11)
 
 
-    def test_add_numbers(self):
+    def test_subtract_numbers(self):
         self.assertEqual(subtract(5, 2), 3)
